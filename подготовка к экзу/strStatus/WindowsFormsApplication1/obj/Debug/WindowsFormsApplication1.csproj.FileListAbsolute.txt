@@ -1,0 +1,9 @@
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\strStatus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

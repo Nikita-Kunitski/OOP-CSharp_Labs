@@ -1,0 +1,19 @@
+	Assebly: 
+	Attributes: 
+	Full Name: 
+	Property: 
+Int32 get_count
+System.String get_set_inf
+	Information for methods:
+Int32 get_get_count()
+System.String get_get_set_inf()
+Void set_get_set_inf(System.String)
+Void Mutation()
+Void Information()
+Void bolean(Boolean)
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+	Fields
+	Interfaces

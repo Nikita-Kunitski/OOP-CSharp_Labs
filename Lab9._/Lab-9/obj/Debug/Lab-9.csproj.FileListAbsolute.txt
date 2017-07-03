@@ -1,0 +1,42 @@
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\bin\Debug\Lab-9.exe.config
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\bin\Debug\Lab-9.exe
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\bin\Debug\Lab-9.pdb
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\Lab-9.csprojResolveAssemblyReference.cache
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\MainWindow.baml
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\MainWindow.g.cs
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\App.g.cs
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\Lab-9_MarkupCompile.cache
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\Lab-9.g.resources
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\Lab_9.Properties.Resources.resources
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\Lab-9.csproj.GenerateResource.Cache
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\Lab-9.exe
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-9\Lab-9\obj\Debug\Lab-9.pdb
+D:\GitHub\.NET-Labs\Lab-9\Lab-9\bin\Debug\Lab-9.exe.config
+D:\GitHub\.NET-Labs\Lab-9\Lab-9\obj\Debug\Lab-9.exe
+D:\GitHub\.NET-Labs\Lab-9\Lab-9\obj\Debug\Lab-9.pdb
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\bin\Debug\Lab-9.exe.config
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\Lab-9.exe
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\Lab-9.pdb
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\bin\Debug\Lab-9.exe
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\bin\Debug\Lab-9.pdb
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\Lab-9.csprojResolveAssemblyReference.cache
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\MainWindow.baml
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\MainWindow.g.cs
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\App.g.cs
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\Lab-9_MarkupCompile.cache
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\Lab-9.g.resources
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\Lab_9.Properties.Resources.resources
+D:\2-й курс\2-й семестр\C#\Lab-9\Lab-9\obj\Debug\Lab-9.csproj.GenerateResource.Cache
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\bin\Debug\Lab-9.exe.config
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\Lab-9.exe
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\Lab-9.pdb
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\bin\Debug\Lab-9.exe
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\bin\Debug\Lab-9.pdb
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\Lab-9.csprojResolveAssemblyReference.cache
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\MainWindow.baml
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\MainWindow.g.cs
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\App.g.cs
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\Lab-9_MarkupCompile.cache
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\Lab-9.g.resources
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\Lab_9.Properties.Resources.resources
+D:\2-й курс\2-й семестр\C#\Lab9._\Lab-9\obj\Debug\Lab-9.csproj.GenerateResource.Cache

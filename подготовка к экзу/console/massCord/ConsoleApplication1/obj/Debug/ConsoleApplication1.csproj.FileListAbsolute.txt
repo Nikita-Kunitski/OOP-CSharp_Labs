@@ -1,0 +1,6 @@
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\massCord\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\massCord\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\massCord\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\massCord\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\massCord\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\2-й курс\2-й семестр\C#\подготовка к экзу\massCord\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

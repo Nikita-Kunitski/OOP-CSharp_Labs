@@ -1,0 +1,63 @@
+C:\Users\dima-\Desktop\Lab-10\Lab-10\bin\Debug\Lab-10.exe.config
+C:\Users\dima-\Desktop\Lab-10\Lab-10\bin\Debug\Lab-10.exe
+C:\Users\dima-\Desktop\Lab-10\Lab-10\bin\Debug\Lab-10.pdb
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab-10.csprojResolveAssemblyReference.cache
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\MainWindow.baml
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\MainWindow.g.cs
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\App.g.cs
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab-10_MarkupCompile.cache
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab-10.g.resources
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab_10.Properties.Resources.resources
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab-10.csproj.GenerateResource.Cache
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab-10.exe
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab-10.pdb
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Dictionary1.baml
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\App.baml
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\ChangeStyleWindow.baml
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\ChangeStyleWindow.g.cs
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Themes\Generic.baml
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dima-\Desktop\Lab-10\Lab-10\obj\Debug\Lab-10_MarkupCompile.lref
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\bin\Debug\Lab-10.exe.config
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab-10.exe
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab-10.pdb
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\bin\Debug\Lab-10.exe
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\bin\Debug\Lab-10.pdb
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab-10.csprojResolveAssemblyReference.cache
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\ChangeStyleWindow.baml
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Dictionary1.baml
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\App.baml
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\ChangeStyleWindow.g.cs
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\MainWindow.g.cs
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\App.g.cs
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab-10_MarkupCompile.cache
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab-10_MarkupCompile.lref
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\MainWindow.baml
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Themes\Generic.baml
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab-10.g.resources
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab_10.Properties.Resources.resources
+D:\Study\2 курс\2 семестр\NET\Лабораторные\Lab-10\Lab-10\obj\Debug\Lab-10.csproj.GenerateResource.Cache
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\bin\Debug\Lab-10.exe.config
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab-10.exe
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab-10.pdb
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\bin\Debug\Lab-10.exe
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\bin\Debug\Lab-10.pdb
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab-10.csprojResolveAssemblyReference.cache
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\ChangeStyleWindow.baml
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Dictionary1.baml
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\App.baml
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\ChangeStyleWindow.g.cs
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\MainWindow.g.cs
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\App.g.cs
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab-10_MarkupCompile.cache
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab-10_MarkupCompile.lref
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\MainWindow.baml
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Themes\Generic.baml
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab-10.g.resources
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab_10.Properties.Resources.resources
+D:\2-й курс\2-й семестр\C#\Lab-10\Lab-10\obj\Debug\Lab-10.csproj.GenerateResource.Cache
+D:\2-й курс\2-й семестр\C#\Lab10._\Lab-10\bin\Debug\Lab-10.exe.config
+D:\2-й курс\2-й семестр\C#\Lab10._\Lab-10\obj\Debug\Lab-10.exe
+D:\2-й курс\2-й семестр\C#\Lab10._\Lab-10\obj\Debug\Lab-10.pdb

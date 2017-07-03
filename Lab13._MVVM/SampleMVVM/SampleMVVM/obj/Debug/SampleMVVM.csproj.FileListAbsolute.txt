@@ -1,0 +1,41 @@
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csprojResolveAssemblyReference.cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.Cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csprojResolveAssemblyReference.cache
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+D:\БГТУ\Предметы\2 курс\ООП\2 семестр\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.Cache
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csprojResolveAssemblyReference.cache
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+F:\От Наташи\ООП\12. 12 вариант\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.Cache
+D:\2-й курс\2-й семестр\C#\Lab13._MVVM\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+D:\2-й курс\2-й семестр\C#\Lab13._MVVM\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb

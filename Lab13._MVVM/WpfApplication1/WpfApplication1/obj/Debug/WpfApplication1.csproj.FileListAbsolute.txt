@@ -1,0 +1,1 @@
+D:\2-й курс\2-й семестр\C#\Lab13._MVVM\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config

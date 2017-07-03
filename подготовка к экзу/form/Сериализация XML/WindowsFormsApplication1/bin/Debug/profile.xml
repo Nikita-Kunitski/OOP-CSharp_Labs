@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>
+    <ID>1002</ID>
+    <FullName>TextBox</FullName>
+    <Date>2017-06-23T00:00:00</Date>
+    <Phone>TextBox</Phone>
+  </Profile>
+  <Profile>
+    <ID>1006</ID>
+    <FullName>TextBoxsdg</FullName>
+    <Date>2017-06-24T00:00:00</Date>
+    <Phone>TextBoxcx</Phone>
+  </Profile>
+  <Profile>
+    <ID>1007</ID>
+    <FullName>TextBoxvlkj</FullName>
+    <Date>2017-06-02T00:00:00</Date>
+    <Phone>TextBoxd</Phone>
+  </Profile>
+  <Profile>
+    <ID>1008</ID>
+    <FullName>вдапо</FullName>
+    <Date>2017-06-22T00:00:00</Date>
+    <Phone>валпо</Phone>
+  </Profile>
+</ArrayOfProfile>

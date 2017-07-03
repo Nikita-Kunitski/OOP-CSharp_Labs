@@ -1,0 +1,13 @@
+D:\2-й курс\2-й семестр\Компьютерная геометрия и графика\лабки\Lab.1_CMatrix\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\2-й курс\2-й семестр\C#\Lab2._Inheritance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\2-й курс\2-й семестр\C#\Lab2._Inheritance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\2-й курс\2-й семестр\C#\Lab2._Inheritance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\2-й курс\2-й семестр\C#\Lab2._Inheritance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\2-й курс\2-й семестр\C#\Lab2._Inheritance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\2-й курс\2-й семестр\C#\Lab2._Inheritance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\2-й курс\2-й семестр\C#\Lab3._Inheritance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\2-й курс\2-й семестр\C#\Lab3._Inheritance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\2-й курс\2-й семестр\C#\Lab3._Inheritance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\2-й курс\2-й семестр\C#\Lab3._Inheritance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\2-й курс\2-й семестр\C#\Lab3._Inheritance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\2-й курс\2-й семестр\C#\Lab3._Inheritance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

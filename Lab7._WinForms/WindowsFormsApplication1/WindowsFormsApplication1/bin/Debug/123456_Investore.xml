@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Investore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FullName>skdjfhkj</FullName>
+  <Phone>546423</Phone>
+  <BirthDay>27 мая 2017 г.</BirthDay>
+  <obj>
+    <NumberDeposite>123456</NumberDeposite>
+    <DateOfCreate>27 мая 2017 г.</DateOfCreate>
+    <TypeDeposite>Накопительный</TypeDeposite>
+    <SMSNotification>false</SMSNotification>
+    <InternetBanking>true</InternetBanking>
+  </obj>
+</Investore>
